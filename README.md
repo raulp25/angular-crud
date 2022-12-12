@@ -2,7 +2,7 @@ Install JSON server with: npm install -g json-server<br>
 
 run JSON server with:     json-server --watch db.json<br>
 
-run in other terminal Angular: ng g serve --o<br>
+run in other terminal Angular: ng g serve --o<br><br>
 
 
 
