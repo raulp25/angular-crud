@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "NATIONAL POULTRY",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 1.21,
+      "comment": "Place a buy order for 100 stocks of US Chicken National Poultry instrument[ NATIONAL POULTRY ] ",
+      "date": "2022-12-13T06:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "NASDAQ: NVDA",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "Placing NVIDIA CORP. [NASDAQ: NVDA] stock order for 99 stocks.",
+      "date": "2022-12-12T06:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
