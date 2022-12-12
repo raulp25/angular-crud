@@ -1,3 +1,5 @@
+Angular simple crud mocking backend and db with JSON Server <br>
+
 Install JSON server with: npm install -g json-server<br>
 
 run JSON server with:     json-server --watch db.json<br>
